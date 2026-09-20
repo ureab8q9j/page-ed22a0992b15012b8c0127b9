@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "6bad51f19e929638f1325343",
+  "owner": "ureab8q9j",
+  "repo": "page-ed22a0992b15012b8c0127b9",
+  "title": "Windup",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "ed22a0992b15012b8c0127b9",
+      "a": "Windup",
+      "b": "机场官网线路发布页",
+      "entity": "Windup",
+      "brand": "Windup",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "83cc60470c7fcb20a5e7c53c4f6107fefa17d533c3f18246716b5567e91686de",
+      "content": {
+        "primary_entity": "Windup",
+        "keyword1": "Windup",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_CLIENTS_INTRO": "常见客户端有 Clash、Shadowrocket、Surge、v2rayN 与 OpenClash，按设备系统选择对应客户端即可。",
+          "AI_CLIENTS_TITLE": "按设备选择 Windup 客户端",
+          "AI_CLOSING_TEXT": "根据设备数量与月流量选择合适套餐，导入订阅即可开始使用。",
+          "AI_CLOSING_TITLE": "选对套餐，畅连加速",
+          "AI_DESCRIPTION": "，Windup 提供基础版、旗舰版与团队版三档套餐，覆盖每月 100GB 到 1000GB 流量与 3 到 20 台设备需求。旗舰版支持 IPLC 专线游戏加速优化，团队版支持企业定制路由，可按月或按年灵活订阅。",
+          "AI_FAQ_ANSWER_1": "基础版支持 3 台设备同时在线，旗舰版为 5 台，团队版最多 20 台。多设备用户建议选择更高档位，避免超出限制影响使用。",
+          "AI_FAQ_ANSWER_2": "可以。旗舰版提供 IPLC 专线游戏加速优化，适合对延迟敏感的游戏与实时应用。基础版使用普通线路节点池。",
+          "AI_FAQ_ANSWER_3": "基础版每月 100GB，旗舰版 300GB，团队版 1000GB。轻度浏览选基础版，日常视频与游戏选旗舰版，多人共享选团队版。",
+          "AI_FAQ_ANSWER_4": "可以。三档套餐均提供按年付价格，年付比月付平均每月更划算，适合确定长期使用的用户。",
+          "AI_FAQ_ANSWER_5": "在客户端中导入订阅地址后即可使用。不同客户端操作入口略有差异，可参照对应客户端文档完成配置。",
+          "AI_FAQ_INTRO": "订阅导入、设备数量与套餐选择。",
+          "AI_FAQ_QUESTION_1": "Windup 不同套餐支持几台设备同时使用？",
+          "AI_FAQ_QUESTION_2": "游戏加速需要选择哪个套餐？",
+          "AI_FAQ_QUESTION_3": "每月流量不够用可以升级套餐吗？",
+          "AI_FAQ_QUESTION_4": "支持按年付费吗？",
+          "AI_FAQ_QUESTION_5": "订阅导入后怎么在客户端使用？",
+          "AI_FAQ_TITLE": "Windup 常见问题",
+          "AI_FEATURES_INTRO": "从流量、设备与线路三个角度对比套餐，能更快找到适合的档位。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 适合单人轻量使用，旗舰版 300GB 适合日常视频与游戏，团队版 1000GB 适合多人共享。",
+          "AI_FEATURE_TEXT_2": "基础版 3 台设备，旗舰版 5 台，团队版 20 台，按常用设备数量选择可避免频繁切换。",
+          "AI_FEATURE_TEXT_3": "旗舰版与团队版提供更丰富的节点与专线优化，按年付可降低每月平均支出。",
+          "AI_FEATURE_TITLE_1": "月流量匹配场景",
+          "AI_FEATURE_TITLE_2": "设备数量按需选择",
+          "AI_FEATURE_TITLE_3": "线路与付费周期",
+          "AI_GUIDE_INTRO": "从选套餐到完成订阅配置，按三个步骤操作即可开始使用 Windup。",
+          "AI_GUIDE_TITLE": "Windup 使用步骤",
+          "AI_HERO_INTRO": "Windup 为个人与团队提供多档海外加速套餐，涵盖流量、设备数量与线路优化差异，支持按月或按年订阅，适配常见客户端。",
+          "AI_HERO_SUBTITLE": "多档套餐，灵活加速",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖 100GB 至 1000GB",
+          "AI_HIGHLIGHT_2": "旗舰版 IPLC 专线游戏优化",
+          "AI_HIGHLIGHT_3": "按年付平均每月更划算",
+          "AI_PLANS_INTRO": "基础版每月 100GB 适合轻量使用，旗舰版 300GB 兼顾游戏与流媒体，团队版 1000GB 支持 20 台设备共享。",
+          "AI_PLANS_TITLE": "Windup 套餐对比",
+          "AI_STEP_TEXT_1": "根据月流量、设备数量和线路需求，在基础版、旗舰版与团队版之间确定档位。",
+          "AI_STEP_TEXT_2": "查看所选套餐的设备数量、流量额度与线路说明，确认符合日常使用场景。",
+          "AI_STEP_TEXT_3": "在对应客户端中导入订阅地址，按客户端文档完成节点选择与连接配置。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置客户端订阅",
+          "AI_VISUAL_TITLE": "Windup 加速套餐"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "lqprius.cn",
+    "host": "lqprius.cn"
+  },
+  "file_hashes": {
+    "index.html": "cedd561aaaf0e58b5a1fb5bb5cf57eb6983ebfbbc0b21d58192dbf5ffe248d44",
+    "sitemap.xml": "7429691e1f0c94a6376d3a2174f00dbe98cd4039ae4b1e897ab60b83307c2acf",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "321898ddb0be4a17aa32fb44038e02aeea0f1b8b39d588d2232905453c71c8e7",
+    "robots.txt": "33bb86d4a643cbacbe7e5574fd82879e369ae3d614c245c17bc521ca4e7771f9",
+    "f9fbf4b35a1a93db226fe5ba4f38b30a.txt": "526cac854273d86fad7715919d526e33a352929addcf6e86e5861fce27de3caf"
+  },
+  "revision": "eaa9f239d33779f584cded16f922b9c64accc33b2779f49e6193bef832d5a4da"
+}
